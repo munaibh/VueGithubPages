@@ -1,4 +1,7 @@
-# projecr
+# VueGithubPages
+
+An example on how to setup a ue project and use github workflows to automatically deploy it to github pages. Read about github actions here: https://docs.github.com/en/actions and the config to deploy to the github pages canbe found in `VueGithubPages/.github/workflows/deploy.yml`.
+
 
 ## Project setup
 ```
